@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+}
+
+nav{
+   margin: 10px 0;
+   text-align: center;
+}
+
+
+nav a {
+   text-decoration: none;
+   padding-right: 60px;
+   color: black
+}
+
+nav{
+   margin: 20px 0px;
+   padding: 20px 0;
+   text-align: center;
+   background-color: red;
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 60px;
+    color: white;
+
+
+}
+
+.contacts{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+}
+
+p img {
+    width: 250px;
+    margin: 15px;
+}
+
+.vasia{
+    border: 10px solid rgb(0, 0, 0)
+}
